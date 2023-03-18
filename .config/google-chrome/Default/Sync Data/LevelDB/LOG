@@ -1,0 +1,9 @@
+2023/03/17-00:25:34.793 5c55 Reusing MANIFEST /home/artistbanda/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/03/17-00:25:34.793 5c55 Recovering log #50
+2023/03/17-00:25:34.793 5c55 Reusing old log /home/artistbanda/.config/google-chrome/Default/Sync Data/LevelDB/000050.log 
+2023/03/17-00:34:58.560 5c49 Level-0 table #55: started
+2023/03/17-00:34:58.562 5c49 Level-0 table #55: 124601 bytes OK
+2023/03/17-00:34:58.568 5c49 Delete type=0 #50
+2023/03/17-00:54:46.713 5c47 Level-0 table #57: started
+2023/03/17-00:54:46.716 5c47 Level-0 table #57: 84567 bytes OK
+2023/03/17-00:54:46.720 5c47 Delete type=0 #54

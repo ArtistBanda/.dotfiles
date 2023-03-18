@@ -1,0 +1,14 @@
+[Added Associations]
+application/x-shellscript=org.gnome.gedit.desktop;
+text/plain=code.desktop;
+video/x-matroska=org.videolan.VLC.desktop;
+
+[Default Applications]
+text/plain=code.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+video/x-matroska=org.videolan.VLC.desktop
+x-scheme-handler/mailto=google-chrome.desktop

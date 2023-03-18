@@ -1,0 +1,2 @@
+2023-03-09 20:36:07.426 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/artistbanda/.config/picom/picom.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-03-09 20:36:10.303 [info] [perf] Render performance baseline is 29ms

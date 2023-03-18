@@ -1,0 +1,17 @@
+2023/03/16-19:23:20.376 9e7 Reusing MANIFEST /home/artistbanda/.config/google-chrome/Default/IndexedDB/https_keepa.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/16-19:23:20.376 9e7 Recovering log #26
+2023/03/16-19:23:20.376 9e7 Reusing old log /home/artistbanda/.config/google-chrome/Default/IndexedDB/https_keepa.com_0.indexeddb.leveldb/000026.log 
+2023/03/16-19:23:20.413 9ea Level-0 table #32: started
+2023/03/16-19:23:20.415 9ea Level-0 table #32: 742 bytes OK
+2023/03/16-19:23:20.418 9ea Delete type=0 #26
+2023/03/16-19:23:20.418 9e8 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/16-19:23:21.842 9ea Level-0 table #34: started
+2023/03/16-19:23:21.844 9ea Level-0 table #34: 486 bytes OK
+2023/03/16-19:23:21.847 9ea Delete type=0 #31
+2023/03/16-19:23:21.847 9e7 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 462 : 1
+2023/03/16-19:23:21.847 9e7 Compacting 1@0 + 1@1 files
+2023/03/16-19:23:21.849 9e7 Generated table #35@0: 18 keys, 564 bytes
+2023/03/16-19:23:21.849 9e7 Compacted 1@0 + 1@1 files => 564 bytes
+2023/03/16-19:23:21.852 9e7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/16-19:23:21.852 9e7 Delete type=2 #34
+2023/03/16-19:23:21.852 9e7 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 462 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,14 @@
+2023/03/15-09:25:35.432 367e Reusing MANIFEST /home/artistbanda/.config/google-chrome/Default/IndexedDB/https_tasksboard.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/15-09:25:35.432 367e Recovering log #22
+2023/03/15-09:25:35.433 367e Reusing old log /home/artistbanda/.config/google-chrome/Default/IndexedDB/https_tasksboard.com_0.indexeddb.leveldb/000022.log 
+2023/03/15-09:25:35.433 367e Delete type=2 #20
+2023/03/15-09:25:35.534 3680 Level-0 table #27: started
+2023/03/15-09:25:35.536 3680 Level-0 table #27: 1775 bytes OK
+2023/03/15-09:25:35.540 3680 Delete type=0 #22
+2023/03/15-09:25:35.540 3680 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 369 : 1
+2023/03/15-09:25:35.540 3680 Compacting 1@0 + 1@1 files
+2023/03/15-09:25:35.543 3680 Generated table #28@0: 78 keys, 2064 bytes
+2023/03/15-09:25:35.543 3680 Compacted 1@0 + 1@1 files => 2064 bytes
+2023/03/15-09:25:35.547 3680 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/15-09:25:35.547 3680 Delete type=2 #27
+2023/03/15-09:25:35.548 367e Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 369 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

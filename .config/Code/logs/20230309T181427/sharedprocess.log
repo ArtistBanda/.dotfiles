@@ -1,0 +1,10 @@
+2023-03-09 18:14:29.009 [info] Starting worker process with pid 10991 (type: fileWatcher, window: 1).
+2023-03-09 18:14:33.198 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-09 18:14:33.294 [info] Installing extension: ms-python.vscode-pylance
+2023-03-09 18:14:33.973 [info] Getting Manifest... ms-python.python
+2023-03-09 18:14:35.653 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+2023-03-09 18:14:36.528 [info] Extracted extension to /home/artistbanda/.vscode/extensions/.2e89f3a2-9b25-46b5-b5d4-e2a69431d951: ms-python.vscode-pylance
+2023-03-09 18:14:36.532 [info] Renamed to /home/artistbanda/.vscode/extensions/ms-python.vscode-pylance-2023.3.20
+2023-03-09 18:14:36.533 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-03-09 18:14:36.538 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-09 18:14:36.540 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.3.10

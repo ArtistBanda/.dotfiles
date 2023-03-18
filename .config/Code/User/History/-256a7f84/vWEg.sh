@@ -1,0 +1,20 @@
+#!/bin/bash 
+
+xrandr --output DP-0 --mode 2560x1440 --rate 165.00 --output HDMI-0 --off
+
+# Launch polybar.
+~/.config/polybar/launch.sh
+
+# Get rid of that screen tearing.
+# Unsure if this will make startup slower?...
+nvidia-force-comp-pipeline
+
+# Start compositor.
+picom -b 
+
+# Setup the arandr monitor layout AFTER compositor and BEFORE wallpaper.
+# ~/.screenlayout/default_triple_monitor.sh 
+
+# Set wallpaper AFTER compositor.
+# feh --bg-fill ~/.wallpapers/IGN_Astronaut_Nord.png
+feh --bg-fill ~/.wallpapers/Cloud_2_Nord.png

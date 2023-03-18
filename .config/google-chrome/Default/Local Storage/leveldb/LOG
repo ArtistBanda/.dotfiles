@@ -1,0 +1,15 @@
+2023/03/17-00:25:34.792 3 Reusing MANIFEST /home/artistbanda/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/17-00:25:34.793 3 Recovering log #124
+2023/03/17-00:25:34.793 3 Reusing old log /home/artistbanda/.config/google-chrome/Default/Local Storage/leveldb/000124.log 
+2023/03/17-00:48:12.441 5 Level-0 table #128: started
+2023/03/17-00:48:12.445 5 Level-0 table #128: 24731 bytes OK
+2023/03/17-00:48:12.449 5 Delete type=0 #124
+2023/03/17-00:48:12.450 5 Compacting 4@0 + 1@1 files
+2023/03/17-00:48:12.474 5 Generated table #129@0: 1506 keys, 1240655 bytes
+2023/03/17-00:48:12.474 5 Compacted 4@0 + 1@1 files => 1240655 bytes
+2023/03/17-00:48:12.477 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/17-00:48:12.477 5 Delete type=2 #119
+2023/03/17-00:48:12.477 5 Delete type=2 #121
+2023/03/17-00:48:12.477 5 Delete type=2 #123
+2023/03/17-00:48:12.477 5 Delete type=2 #125
+2023/03/17-00:48:12.477 5 Delete type=2 #128

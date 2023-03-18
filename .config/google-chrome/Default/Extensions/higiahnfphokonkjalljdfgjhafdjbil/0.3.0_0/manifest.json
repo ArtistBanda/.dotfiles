@@ -1,0 +1,47 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "icons/icon16.png",
+         "19": "icons/icon19.png",
+         "32": "icons/icon32.png",
+         "64": "icons/icon64.png"
+      }
+   },
+   "background": {
+      "service_worker": "js/background.js",
+      "type": "module"
+   },
+   "commands": {
+      "close_other_tabs": {
+         "description": "__MSG_close_other_tabs__",
+         "suggested_key": {
+            "default": "Ctrl+Shift+1"
+         }
+      },
+      "close_tabs_to_the_left": {
+         "description": "__MSG_close_tabs_to_the_left__",
+         "suggested_key": {
+            "default": "Ctrl+Shift+2"
+         }
+      },
+      "close_tabs_to_the_right": {
+         "description": "__MSG_close_tabs_to_the_right__",
+         "suggested_key": {
+            "default": "Ctrl+Shift+3"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8WzVzK9stP3DaOP3Vf54a6wzKvRMjEumPPHd3unlSPnSNyUES3OorUFKbhXFvXxFjNpXD6cxkdwJl0ynTWoJ1NGAk27OiF7xCvGy5yOjn72LYBZXkjeizDDWlDifzJhbGwDYddGDfEQ1t/uS4jKlD5NTC3u6IRC5EGShTZ8wuab3ajtLso8rYwnudBVMh6erqF/F/KiG+i1e/yo1G2DmQYnPeGlYEekHxNQxM6TCIU713OXQBUIuQ3jhcykp2gQv04UtlVHlVbi77ZoroIpcUN4Bg9BxH6eGWG9BjqtJpLjM1TrSukdDKXvpyxMxlLddAjHkKuwLqQj00vTJWBwIIwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "permissions": [ "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.3.0"
+}

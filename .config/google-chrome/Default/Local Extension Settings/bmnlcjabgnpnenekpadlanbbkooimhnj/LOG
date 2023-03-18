@@ -1,0 +1,21 @@
+2023/03/17-00:25:35.138 5c47 Reusing MANIFEST /home/artistbanda/.config/google-chrome/Default/Local Extension Settings/bmnlcjabgnpnenekpadlanbbkooimhnj/MANIFEST-000001
+2023/03/17-00:25:35.138 5c47 Recovering log #133
+2023/03/17-00:25:35.138 5c47 Reusing old log /home/artistbanda/.config/google-chrome/Default/Local Extension Settings/bmnlcjabgnpnenekpadlanbbkooimhnj/000133.log 
+2023/03/17-00:25:43.178 5c48 Level-0 table #137: started
+2023/03/17-00:25:43.211 5c48 Level-0 table #137: 2353502 bytes OK
+2023/03/17-00:25:43.215 5c48 Delete type=0 #133
+2023/03/17-00:47:19.744 5c48 Level-0 table #139: started
+2023/03/17-00:47:19.764 5c48 Level-0 table #139: 2362689 bytes OK
+2023/03/17-00:47:19.767 5c48 Delete type=0 #136
+2023/03/17-00:47:19.768 5c48 Compacting 4@0 + 1@1 files
+2023/03/17-00:47:19.795 5c48 Generated table #140@0: 17 keys, 2179171 bytes
+2023/03/17-00:47:19.795 5c48 Compacted 4@0 + 1@1 files => 2179171 bytes
+2023/03/17-00:47:19.798 5c48 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/17-00:47:19.798 5c48 Delete type=2 #129
+2023/03/17-00:47:19.798 5c48 Delete type=2 #131
+2023/03/17-00:47:19.798 5c48 Delete type=2 #134
+2023/03/17-00:47:19.798 5c48 Delete type=2 #137
+2023/03/17-00:47:19.798 5c48 Delete type=2 #139
+2023/03/17-01:02:02.448 5c48 Level-0 table #142: started
+2023/03/17-01:02:02.465 5c48 Level-0 table #142: 2356347 bytes OK
+2023/03/17-01:02:02.468 5c48 Delete type=0 #138

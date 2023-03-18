@@ -1,0 +1,14 @@
+[Info  - 6:57:51 PM] (138149) Pylance language server 2023.3.10 (pyright 773a7cde) starting
+[Info  - 6:57:51 PM] (138149) Server root directory: /home/artistbanda/.vscode/extensions/ms-python.vscode-pylance-2023.3.10/dist
+[Info  - 6:57:51 PM] (138149) Starting service instance ".config"
+[Info  - 6:57:51 PM] (138149) Auto-indent enabled
+[Info  - 6:57:51 PM] (138149) No configuration file found.
+[Info  - 6:57:51 PM] (138149) No pyproject.toml file found.
+[Info  - 6:57:51 PM] (138149) Setting pythonPath for service ".config": "/bin/python"
+[Warn  - 6:57:51 PM] (138149) stubPath /home/artistbanda/.config/typings is not a valid directory.
+[Info  - 6:57:51 PM] (138149) Assuming Python version 3.11
+[Info  - 6:57:51 PM] (138149) Assuming Python platform Linux
+[Info  - 6:57:51 PM] (138149) Searching for source files
+[Info  - 6:57:51 PM] (138149) Found 2 source files
+[Info  - 6:57:51 PM] (138149) Background analysis(1) root directory: /home/artistbanda/.vscode/extensions/ms-python.vscode-pylance-2023.3.10/dist
+[Info  - 6:57:51 PM] (138149) Background analysis(1) started
