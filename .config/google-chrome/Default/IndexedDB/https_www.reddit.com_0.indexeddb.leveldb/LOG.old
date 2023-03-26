@@ -1,7 +1,0 @@
-2023/03/14-20:15:52.191 11536 Reusing MANIFEST /home/artistbanda/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/14-20:15:52.192 11536 Recovering log #3
-2023/03/14-20:15:52.192 11536 Reusing old log /home/artistbanda/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
-2023/03/14-20:16:55.230 11536 Level-0 table #5: started
-2023/03/14-20:16:55.234 11536 Level-0 table #5: 7337 bytes OK
-2023/03/14-20:16:55.238 11536 Delete type=0 #3
-2023/03/14-20:16:55.238 11536 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
